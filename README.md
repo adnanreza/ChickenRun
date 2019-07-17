@@ -21,7 +21,7 @@ You can use XAMPP or any other LAMP web server solution stack.
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [jQuery](https://jquery.com/) - Javascript Library
 
-## Authors
+## Author
 
 * **Adnan Reza**
 
