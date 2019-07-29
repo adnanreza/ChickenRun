@@ -12,7 +12,7 @@ Frontend: HTML5, CSS3, JavaScript, jQuery
 
 ## Deployment
 
-You can use XAMPP or any other LAMP web server solution stack.
+You can use [XAMPP](https://www.apachefriends.org/index.html) or any other LAMP web server solution stack.
 
 ## Built With
 
